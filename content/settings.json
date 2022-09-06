@@ -1,7 +1,7 @@
 {
   "domain": "elencosta.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#070606",
+  "primary_color": "#0abab5",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/29071-logo-simbolo.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#0abab5",
+  "secondary_color": "#2d2d2d",
   "icon": "/img/uploads/29071-logo-simbolo.jpeg",
   "store_id": 29071,
   "description": "elencosta",
