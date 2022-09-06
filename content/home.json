@@ -21,11 +21,11 @@
     },
     {
       "page": 1,
-      "title": "Lançamento",
+      "title": "",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "",
+      "link": "Lançamento",
       "limit": 12,
       "collection_id": null,
       "sort": "news"
