@@ -26,7 +26,7 @@
     },
     {
       "page": 1,
-      "title": "Lançamento",
+      "title": "Lançamentos",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
