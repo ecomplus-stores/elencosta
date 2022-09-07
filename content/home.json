@@ -30,7 +30,7 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "Lançamento",
+      "link": "Lançamentos",
       "limit": 12,
       "collection_id": null,
       "sort": "news"
