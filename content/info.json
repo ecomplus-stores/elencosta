@@ -1,11 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Frete Grátis para compras acima de  R$ 500,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 3 x sem juros"
   },
   "exchange": {
     "show": true,
