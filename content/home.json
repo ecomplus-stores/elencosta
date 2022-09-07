@@ -27,7 +27,7 @@
     {
       "page": 1,
       "title": "",
-      "shuffle": false,
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "Lançamento",
