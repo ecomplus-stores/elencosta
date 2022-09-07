@@ -1,25 +1,25 @@
 {
-  "domain": "elencosta.netlify.app",
+  "domain": "elencosta.com",
   "currency_symbol": "R$",
   "primary_color": "#0abab5",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#0abab5",
   "logo": "/img/uploads/29071-logo-simbolo.jpeg",
   "name": "Elen Costa Acessórios de Luxo",
-  "short_name": "elencosta",
+  "short_name": "Elen Costa",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/29071-logo-simbolo.jpeg",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#2d2d2d",
   "icon": "/img/uploads/29071-logo-simbolo.jpeg",
   "store_id": 29071,
-  "description": "elencosta",
+  "description": "Desperte o mulherão que existe em você!",
   "large_icon": "/img/uploads/29071-logo-simbolo.jpeg"
 }
