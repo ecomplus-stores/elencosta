@@ -2,7 +2,7 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Frete Grátis para compras acima de  R$ 500,00"
+    "title": "Frete grátis para compras acima de R$ 500,00"
   },
   "installments": {
     "show": true,
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": ""
   }
 }
