@@ -10,14 +10,28 @@
       {
         "title": "Elen Costa",
         "link": "/pages/sobre-nos"
-      }
+      },
+      {},
+      {}
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 0,
+    "featured": [
+      "/anel?ANEL",
+      "/bracelete?BRACELETE",
+      "/brinco?BRINCO",
+      "/choker?CHOKER",
+      "/colar?COLAR ",
+      "/conjunto?CONJUNTO",
+      "/piercing?PIERCING",
+      "/pulseira?PULSEIRA",
+      "/sale?SALE",
+      "/colecao-essencia?COLEÇÃO ESSÊNCIA",
+      "/colecao-romance?COLEÇÃO ROMANCE"
+    ],
+    "random": 11,
     "full_width": true
   },
   "desktop_megamenu": true,
