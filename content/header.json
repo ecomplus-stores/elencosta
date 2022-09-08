@@ -11,7 +11,6 @@
         "title": "Elen Costa",
         "link": "/pages/sobre-nos"
       },
-      {},
       {}
     ],
     "phone_wpp": true,
@@ -31,7 +30,7 @@
       "/colecao-essencia?COLEÇÃO ESSÊNCIA",
       "/colecao-romance?COLEÇÃO ROMANCE"
     ],
-    "random": 11,
+    "random": 10,
     "full_width": true
   },
   "desktop_megamenu": true,
