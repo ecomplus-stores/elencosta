@@ -18,17 +18,15 @@
   "categories_list": {
     "featured": [
       "/anel?ANEL",
-      "/bracelete?BRACELETE",
       "/brinco?BRINCO",
-      "/choker?CHOKER",
       "/colar?COLAR ",
       "/conjunto?CONJUNTO",
-      "/piercing?PIERCING",
+      "/conjunto?CONJUNTO",
       "/pulseira?PULSEIRA",
-      "/sale?SALE",
-      "/colecoes?COLEÇÕES"
+      "/colecoes?COLEÇÕES",
+      "/sale?SALE"
     ],
-    "random": 10,
+    "random": 11,
     "full_width": true
   },
   "desktop_megamenu": true,
