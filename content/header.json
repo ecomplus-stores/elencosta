@@ -25,11 +25,9 @@
       "/conjunto?CONJUNTO",
       "/piercing?PIERCING",
       "/pulseira?PULSEIRA",
-      "/sale?SALE",
-      "/colecao-essencia?COLEÇÃO ESSÊNCIA",
-      "/colecao-romance?COLEÇÃO ROMANCE"
+      "/sale?SALE"
     ],
-    "random": 11,
+    "random": 9,
     "full_width": true
   },
   "desktop_megamenu": true,
