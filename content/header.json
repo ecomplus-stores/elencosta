@@ -21,12 +21,11 @@
       "/brinco?BRINCO",
       "/colar?COLAR ",
       "/conjunto?CONJUNTO",
-      "/conjunto?CONJUNTO",
       "/pulseira?PULSEIRA",
       "/colecoes?COLEÇÕES",
       "/sale?SALE"
     ],
-    "random": 11,
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": true,
