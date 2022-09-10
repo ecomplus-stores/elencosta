@@ -3,7 +3,7 @@
     "text": "10% de desconto com o cupom BEMVINDA10",
     "link": "",
     "background": "#0abab5",
-    "color": "#070606"
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -31,5 +31,5 @@
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": false
 }
