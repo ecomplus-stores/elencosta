@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Frete grátis para compras a partir de R$ 600,00                          ",
+    "text": "FRETE GRÁTIS PARA COMPRAS A PARTIR DE R$ 600,00                ",
     "link": "",
     "background": "#0abab5",
     "color": "#000000"
@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Elen Costa. Quem Somos?",
+        "title": "ELEN COSTA. QUEM SOMOS?",
         "link": "/pages/sobre-nos"
       }
     ],
