@@ -2,15 +2,17 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": ""
+    "title": "Frete grátis em compras a partir de R$ 600,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3 x sem juros"
+    "text": "Parcele em até 3 x sem juros",
+    "title": "Compre no cartão de crédito"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita",
+    "title": "Primeira troca grátis"
   },
   "promo": {
     "show": true,
