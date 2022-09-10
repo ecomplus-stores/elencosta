@@ -42,6 +42,10 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
