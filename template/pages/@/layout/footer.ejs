@@ -169,6 +169,7 @@ const themeCustom = _.settings.theme.custom || ''
                 <i class="pay-icon pay-icon--<%= method %>"></i>
               <% } %>
             <% }) %>
+            <i class="pay-icon pay-icon--pix"></i>
           </p>
           <div class="footer__stamps">
             <%- await include(`@/sections/stamps`, { _, opt: { stamps: footer.stamps } }) %>
