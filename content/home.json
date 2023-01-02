@@ -24,6 +24,19 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-paisagem-frete-gratis-minimalista-marrom-e-branco.jpg",
+          "mobile_img": "/img/uploads/banner-paisagem-frete-gratis-minimalista-marrom-e-branco.jpg"
+        }
+      ]
     }
   ]
 }
