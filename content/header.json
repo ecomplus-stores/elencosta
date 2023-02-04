@@ -23,7 +23,8 @@
       "/conjunto?CONJUNTO",
       "/pulseira?PULSEIRA",
       "/colecoes?COLEÇÕES",
-      "/sale?SALE"
+      "/sale?SALE",
+      "/cabelos?CABELOS"
     ],
     "random": 7,
     "full_width": true
