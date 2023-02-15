@@ -6,11 +6,11 @@
     "bootswatch": "yeti",
     "custom": "ecom-beauty"
   },
-  "repository": "ecomplus-stores/elencosta",
   "bg_color": "#0abab5",
+  "repository": "ecomplus-stores/elencosta",
   "logo": "/img/uploads/29071-logo-simbolo.jpeg",
   "name": "Elen Costa Acessórios de Luxo",
-  "short_name": "Elen Costa",
+  "short_name": "Elen Costa®",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
