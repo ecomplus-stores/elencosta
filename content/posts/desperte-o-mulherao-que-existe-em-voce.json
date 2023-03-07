@@ -9,6 +9,10 @@
     {
       "type": "blog-post",
       "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
