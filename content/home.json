@@ -18,6 +18,11 @@
           "end": "2024-01-01T03:00:00.000Z",
           "img": "/img/uploads/cupom.jpg",
           "mobile_img": "/img/uploads/cupom.jpg"
+        },
+        {
+          "start": "2023-03-10T14:29:16.799Z",
+          "end": "2023-10-01T03:00:00.000Z",
+          "img": "/img/uploads/banner-1-.jpg"
         }
       ]
     },
