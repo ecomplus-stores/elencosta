@@ -12,6 +12,12 @@
           "end": "2024-02-02T03:00:00.000Z",
           "img": "/img/uploads/banner-2.jpg",
           "mobile_img": "/img/uploads/banner-2.jpg"
+        },
+        {
+          "start": "",
+          "end": "2024-01-13T03:00:00.000Z",
+          "img": "/img/uploads/cupom-2.jpg",
+          "mobile_img": "/img/uploads/cupom-2.jpg"
         }
       ]
     },
