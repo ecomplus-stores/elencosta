@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f9e5b1be7842f0f2fbb9ea825fb9eb7f.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.b29b325375c62ef34340a5701f2636a2.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.8aba4a4712e99f52240f27a2899beeda.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.9cf1d184668502e8ffd5e76397a6bcd2.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.7605a4214c157524b7abdad97cf19f6e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Elen Costa Acessórios de Luxo",
+  "short_name": "Elen Costa®",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desperte o mulherão que existe em você!",
+  "background_color": "#0abab5",
+  "theme_color": "#0abab5"
+}
